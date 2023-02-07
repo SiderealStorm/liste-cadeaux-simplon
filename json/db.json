@@ -31,16 +31,16 @@
       "id": 8
     },
     {
-      "nom": "Téléphone portable avancé",
-      "description": "Un smartphone haut de gamme doté d'un grand écran et d'une batterie longue durée",
-      "prix": 479,
-      "id": 9
-    },
-    {
       "nom": "IMac Pro",
       "description": "Le tout nouvel iMac Pro d'Apple, conçu pour s'adapter à une grande variété d'utilisations professionnelles.",
       "prix": 7999.9,
       "id": 12
+    },
+    {
+      "nom": "Réserve d'exception",
+      "description": "Une réserve de produits gastronomiques de qualité exceptionnelle",
+      "prix": 70,
+      "id": 13
     }
   ]
 }

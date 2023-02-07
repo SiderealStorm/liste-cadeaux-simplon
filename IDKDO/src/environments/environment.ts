@@ -1,3 +1,3 @@
-export const environment = {openAIToken: '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'};
+export const environment = {openAIToken: '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'};
 
 

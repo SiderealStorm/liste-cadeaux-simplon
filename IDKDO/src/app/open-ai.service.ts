@@ -34,12 +34,12 @@ export class OpenAiService {
   }
 
   async getImageFromOpenApi(text : string){
-  const response = await this.openai.createImage({
-    prompt: text,
-    n: 1,
-    size: "256x256",
-  });
-  console.log(response.data.data[0].url)
+    const response = await this.openai.createImage({
+      prompt: text,
+      n: 1,
+      size: "256x256",
+    });
+    // console.log(response.data.data[0].url)
     return response.data.data[0].url
   }
 }
